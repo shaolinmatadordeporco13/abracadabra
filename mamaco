@@ -12,6 +12,9 @@ body {
 </head>
 <body>
 
+<div class="header">
 <h1> The website ever </h1>
 <p> a website created by an unstable person. </p>
+</div>
+
 
